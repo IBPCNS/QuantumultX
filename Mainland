@@ -1,13 +1,15 @@
-shadowsocks=120.232.175.218:33083, method=aes-256-cfb, password=2CoH7t193ra7Co25, fast-open=false, udp-relay=false, tag=直连回国-广东广州-M01.1
+shadowsocks=60.12.124.21:42439, method=aes-256-cfb, password=pouys0sMd9FIbkks, fast-open=false, udp-relay=false, tag=直连回国-浙江丽水-U11
+
+shadowsocks=221.181.185.247:41049, method=aes-256-cfb, password=V9l2PNlYv5hxj70e, fast-open=false, udp-relay=false, tag=直连VIP-江苏宿迁-M01
+
+shadowsocks=120.232.175.218:33083, method=aes-256-cfb, password=2CoH7t193ra7Co25, fast-open=false, udp-relay=false, tag=直连回国-广东广州-M02
 
 shadowsocks=120.232.175.218:34463, method=aes-256-cfb, password=f9EVe4c95nq6eG7i, fast-open=false, udp-relay=false, tag=直连回国-广东广州-M01
 
 shadowsocks=112.28.239.37:42745, method=aes-256-cfb, password=EL11vB7ixu715b71, fast-open=false, udp-relay=false, tag=直连VIP-安徽合肥-M04
 
+shadowsocks=43.248.77.138:33343, method=aes-256-cfb, password=v5zr2eYG10nEt4Sz, fast-open=false, udp-relay=false, tag=直连VIP-江苏镇江-T01-优质推荐3
+
 shadowsocks=43.248.96.94:47269, method=aes-256-cfb, password=HpdFK74J51EA1eRz, fast-open=false, udp-relay=false, tag=直连VIP-江苏镇江-T01-优质推荐2
 
-shadowsocks=43.248.96.94:48019, method=aes-256-cfb, password=up6LIJr6Ecl1f021, fast-open=false, udp-relay=false, tag=直连VIP-江苏镇江-T01-优质推荐
-
-shadowsocks=60.12.124.21:42439, method=aes-256-cfb, password=pouys0sMd9FIbkks, fast-open=false, udp-relay=false, tag=直连回国-浙江丽水-U11
-
-shadowsocks=43.248.77.138:33343, method=aes-256-cfb, password=v5zr2eYG10nEt4Sz, fast-open=false, udp-relay=false, tag=江苏镇江
+shadowsocks=43.248.96.94:48019, method=aes-256-cfb, password=up6LIJr6Ecl1f021, fast-open=false, udp-relay=false, tag=直连VIP-江苏镇江-T01-优质推荐1
