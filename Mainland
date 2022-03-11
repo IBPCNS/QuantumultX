@@ -31,3 +31,5 @@ shadowsocks=222.187.225.3:35965, method=aes-256-cfb, password=2kQKr5e6Rkh96LeZ, 
 shadowsocks=45.141.136.216:39471, method=aes-256-cfb, password=co00uiGfmAVLJs0n, fast-open=false, udp-relay=false, tag=中转回国-KR韩国-01
 
 shadowsocks=103.137.63.21:39797, method=aes-256-cfb, password=TOeTEnhLbs1JI371, fast-open=false, udp-relay=false, tag=中转回国-TW台湾-01-优质中转
+
+shadowsocks=172.105.229.235:40837, method=aes-256-cfb, password=t4Xw46H138jB6Yd4, fast-open=false, udp-relay=false, tag=中转回国-JP日本-01-优质中转
