@@ -4,6 +4,8 @@ shadowsocks=34.212.15.205:14827, method=none, password=L0eazYD2FW9A4XL, fast-ope
 
 shadowsocks=60.12.124.21:42439, method=aes-256-cfb, password=pouys0sMd9FIbkks, fast-open=false, udp-relay=false, tag=直连回国-浙江丽水-U11
 
+shadowsocks=60.12.124.28:34801, method=aes-256-cfb, password=tFafzx45Y7SPDbZs, fast-open=false, udp-relay=false, tag=直连VIP-浙江丽水-U10
+
 shadowsocks=120.232.175.218:33083, method=aes-256-cfb, password=2CoH7t193ra7Co25, fast-open=false, udp-relay=false, tag=直连回国-广东广州-M02
 
 shadowsocks=120.232.175.218:34463, method=aes-256-cfb, password=f9EVe4c95nq6eG7i, fast-open=false, udp-relay=false, tag=直连回国-广东广州-M01
