@@ -15,3 +15,5 @@ shadowsocks=43.248.96.94:48019, method=aes-256-cfb, password=up6LIJr6Ecl1f021, f
 shadowsocks=221.181.185.247:41049, method=aes-256-cfb, password=V9l2PNlYv5hxj70e, fast-open=false, udp-relay=false, tag=直连VIP-江苏宿迁-M01
 
 shadowsocks=221.181.185.247:40723, method=aes-256-cfb, password=y8qQ2qPV0c2EW69d, fast-open=false, udp-relay=false, tag=直连VIP-江苏宿迁-M02
+
+shadowsocks=3.231.1.49:14827, method=none, password=L0eazYD2FW9A4XL, fast-open=false, udp-relay=false, tag=直连1
